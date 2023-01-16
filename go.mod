@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/go-resty/resty/v2 v2.4.0
-	github.com/sergi/go-diff v1.2.0
+	github.com/sergi/go-diff v1.3.1
 	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/net v0.0.0-20210331060903-cb1fcc7394e5 // indirect
